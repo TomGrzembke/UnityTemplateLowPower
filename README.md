@@ -1,9 +1,9 @@
 # Hello^^!
-This repository contains an out-of-the-box Unity Version: 6000.0.69f1 default URP project, which I tweaked in the different branches to measure energy consumption. 
+This repository contains an out-of-the-box Unity Version: 6000.0.69f1 default URP project that I tweaked in different branches to measure energy consumption. 
 
 
 # UMEO - Unity Mobile Energy Optimization
-.. is my thesis project in my final semester in the S4G School for Games. I want to share data findings and measurement approaches with this^^
+.. is my thesis project in my final semester at S4G School for Games. I want to share data findings and measurement approaches with this^^
 
 - Self-set Task: Create a paper that informs about problems and solutions of Unity'S mobile energy consumption in 9 weeks.
 
