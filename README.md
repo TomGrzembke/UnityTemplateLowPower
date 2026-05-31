@@ -1,4 +1,1 @@
-A template Project that aims to reduce out-of-the-box power usage as much as possible.
-
-
-Unity Version: 6000.0.69f1
+See the APK Definitions page in my [Google Sheets](https://docs.google.com/spreadsheets/d/1YSIr4ofTz_Uv5Zsnc4np9DGxfTgp8Hc5jlDtHn55i_Y/edit?usp=sharing) for more info about the APKs, and the Measurements tab for the data they produced.
