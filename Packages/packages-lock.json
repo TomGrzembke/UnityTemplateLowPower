@@ -204,6 +204,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.walkthefrog.energysaver": {
+      "version": "https://github.com/wtfoliver/UnityEnergySaver.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.0.0"
+      },
+      "hash": "d27113ec75d625c5fd1746f743a6a0a0b975ce57"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
