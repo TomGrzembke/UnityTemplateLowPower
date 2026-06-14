@@ -5,7 +5,7 @@ This repository contains an out-of-the-box Unity Version: 6000.0.69f1 default UR
 # UMEO - Unity Mobile Energy Optimization
 .. is my thesis project in my final semester at S4G School for Games. I want to share data findings and measurement approaches with this^^
 
-- Self-set Task: Create a paper that informs about problems and solutions of Unity'S mobile energy consumption in 9 weeks.
+- Self-set Task: Create [a paper](https://docs.google.com/document/d/1paxhwLWeoigQEbiPI0yqlR4YRxUDW2Q83XZjGnB3djs/edit?usp=sharing) that informs about problems and solutions of Unity'S mobile energy consumption in 9 weeks.
 
 <div align="center">
 
