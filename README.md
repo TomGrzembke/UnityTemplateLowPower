@@ -18,7 +18,7 @@ This repository contains an out-of-the-box Unity Version: 6000.0.69f1 default UR
 
 Resource | Link | Purpose | 
   --- | --- | --- | 
-  UMEO Paper | [View](https://app.notion.com/p/Unity-Mobile-Energy-Optimization-UMEO-Problems-and-Solutions-Thesis-3425b281720280e1820ee4db555e4730?source=copy_link) | The primary Paper with analysis of data, how I measured, and suggestions.|
+  UMEO Paper | [View](https://docs.google.com/document/d/1paxhwLWeoigQEbiPI0yqlR4YRxUDW2Q83XZjGnB3djs/edit?usp=sharing) | The primary Paper with analysis of data, how I measured, and suggestions.|
 Data Sheet | [View](https://docs.google.com/spreadsheets/d/1YSIr4ofTz_Uv5Zsnc4np9DGxfTgp8Hc5jlDtHn55i_Y/edit?usp=sharing) | Data Gathering and additional device info.| 
 APKs | [View](https://github.com/TomGrzembke/UnityTemplateLowPower/tree/apks) | All of the APKs I used for the thesis.| 
 
